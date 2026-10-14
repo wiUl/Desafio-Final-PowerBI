@@ -17,6 +17,14 @@ O relatório tem **6 páginas**:
 
 O relatório usa navegação por botões entre as páginas, imagens de fundo personalizadas e visuais personalizados incorporados ao arquivo, entre eles **Sankey**, **Bullet Chart**, **Chiclet Slicer** e **Power KPI**.
 
+## Perguntas que o relatório responde
+
+As páginas analisam as **vendas por segmento, produto, país e período**, com visões de detalhe, TOP N e outliers, e agrupamentos (clusters).
+
+## Dados
+
+Os dados são um conjunto de exemplo da Microsoft/Power BI (informação do autor).
+
 ## Modelo de dados
 
 O modelo tem uma tabela principal, `financials`, com campos como `Date`, `Country`, `Segment`, `Product`, `Units Sold`, `Sales`, `Gross Sales`, `Discounts`, `Discount Band`, `COGS`, `Profit`, `Manufacturing Price` e `Sale Price`, além de campos de calendário (ano, mês, semestre).
@@ -32,10 +40,8 @@ Os visuais também usam campos criados no próprio modelo, como `Continentes`, `
 
 Modelagem de dados, medidas e colunas calculadas, visualização de dados, design de navegação entre páginas, análise de outliers, TOP N e agrupamentos.
 
-## Pendente de confirmação
+## Pendente
 
-- Origem e descrição dos dados da tabela `financials`.
-- Perguntas de negócio que o relatório responde e conclusões.
 - Capturas de tela das páginas (podem ser exportadas do Power BI Desktop e adicionadas a este README).
 
 ## Autor
