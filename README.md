@@ -40,9 +40,33 @@ Os visuais também usam campos criados no próprio modelo, como `Continentes`, `
 
 Modelagem de dados, medidas e colunas calculadas, visualização de dados, design de navegação entre páginas, análise de outliers, TOP N e agrupamentos.
 
-## Pendente
+## Capturas de tela
 
-- Capturas de tela das páginas (podem ser exportadas do Power BI Desktop e adicionadas a este README).
+**Página inicial**
+
+![Página inicial do relatório](images/01-home.png)
+
+**Principal** — indicadores, vendas por período, segmento, produto e país
+
+![Página Principal](images/02-principal.png)
+
+**Detalhes de Vendas** — vendas por mês/semestre, matriz por trimestre e ano, unidades por faixa e produto
+
+![Página Detalhes de Vendas](images/03-detalhes.png)
+
+**Principais Produtos** — outliers, TOP 3 de produtos por país e dispersão animada por mês
+
+![Página Principais Produtos](images/04-principais-produtos.png)
+
+**Análises com P&R** — vendas e unidades por mês, TOP 5 meses, TOP N por país e faixas de unidades
+
+![Página Análises com P&R](images/05-analises-pr.png)
+
+**Categorias** — vendas por continente e ano (Sankey), por país, por segmento agrupado e clusters de lucro
+
+![Página Categorias](images/06-categorias.png)
+
+> Nas capturas, os títulos das páginas são "Principal", "Detalhes de Vendas", "Principais Produtos", "Análises com P&R" e "Categorias"; os nomes internos das abas no arquivo `.pbix` são os da tabela acima.
 
 ## Autor
 
